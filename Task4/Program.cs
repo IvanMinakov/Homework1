@@ -7,5 +7,5 @@ while (K <= N)
     {
         Console.Write(K + " ,");
     }
-    K +=1; 
+    K += 1;
 }
